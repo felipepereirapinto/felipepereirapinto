@@ -1,7 +1,7 @@
 <h1 align="center">Hi there <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Felipe</h1>
 <h3 align="center">Electrical Engineer and Developer</h3>
 
-- 🌱 I’m currently learning HTML, CSS, JAVASCRIPT, TYPESCRIPT, NODE, REACT, FIREBASE
+- 🌱 I’m currently learning HTML, CSS, JavaScript, TypeScript, Node.js, React JS, Firebase
 - 📫 How to reach me: ofelipepereira@gmail.com | <a href="https://www.linkedin.com/in/felipe-pereira-pinto/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="felipe-pereira-pinto" height="16" width="16" /> LinkedIn</a>
 
 <p align="center">
