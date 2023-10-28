@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Felipe</h1>
 <h3 align="center">Developer</h3>
 
-- I’m currently learning Python, Django, TypeScript, Node.js, React JS, MySQL
+- I’m a Full-Stack Developer currently working with Django, React, and MySQL among others.
 - How to reach me: ofelipepereira@gmail.com | <a href="https://www.linkedin.com/in/felipe-pereira-pinto/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="felipe-pereira-pinto" height="16" width="16" /> LinkedIn</a>
 
 <!-- <p align="center">
